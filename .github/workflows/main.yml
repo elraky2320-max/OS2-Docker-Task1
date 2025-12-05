@@ -17,4 +17,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: ${{ secrets.DOCKER_USERNAME }}/OmarMohamed_2023040161:latest
+        tags: ${{ secrets.DOCKER_USERNAME }}/omarmohamed_2023040161:latest
